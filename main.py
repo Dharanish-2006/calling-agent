@@ -9,7 +9,7 @@ import csv
 import time
 
 EXOTEL_SID = "cmp681"
-EXOTEL_TOKEN = "0b1924a536a71b6268f48e1eba1249196c872cc67d13d97b"
+EXOTEL_TOKEN = "c8b99a122c0a7c86fecabba8da9af43c45a9bab95506252d"
 EXOTEL_VIRTUAL_NO = ""
 AGENTSTREAM_APPLET_URL = "https://yourserver.com/agentstream_app"
 CSV_FILE = "customers.csv"
