@@ -18,7 +18,7 @@ LISTEN_HOST = "0.0.0.0"
 LISTEN_PORT = 8765
 CRM_ENDPOINT = "https://yourcrm.example.com/api/add_call_log"
 VAPI_WS_URL = "wss://api.vapi.ai/realtime"
-VAPI_API_KEY = "your_vapi_api_key"
+VAPI_API_KEY = "aac1b6ab-497f-40c5-9fa0-9d0d04e1cbef"
 
 async def process_audio_with_vapi(audio_bytes, call_sid, caller):
     audio_reply_chunks = []
